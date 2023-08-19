@@ -1,2 +1,2 @@
-playing around with kit's quickstart guide
+playing around with kit
 for personal use
